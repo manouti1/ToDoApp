@@ -1,0 +1,14 @@
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\Entities.dll
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\Entities.pdb
+E:\workspace\ToDoApp\ToDo\DataAccess\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+E:\workspace\ToDoApp\ToDo\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

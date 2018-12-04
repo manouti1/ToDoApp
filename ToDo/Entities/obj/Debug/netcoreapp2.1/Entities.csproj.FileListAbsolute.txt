@@ -1,0 +1,9 @@
+E:\workspace\ToDoApp\ToDo\Entities\bin\Debug\netcoreapp2.1\Entities.deps.json
+E:\workspace\ToDoApp\ToDo\Entities\bin\Debug\netcoreapp2.1\Entities.dll
+E:\workspace\ToDoApp\ToDo\Entities\bin\Debug\netcoreapp2.1\Entities.pdb
+E:\workspace\ToDoApp\ToDo\Entities\obj\Debug\netcoreapp2.1\Entities.csprojAssemblyReference.cache
+E:\workspace\ToDoApp\ToDo\Entities\obj\Debug\netcoreapp2.1\Entities.csproj.CoreCompileInputs.cache
+E:\workspace\ToDoApp\ToDo\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfoInputs.cache
+E:\workspace\ToDoApp\ToDo\Entities\obj\Debug\netcoreapp2.1\Entities.AssemblyInfo.cs
+E:\workspace\ToDoApp\ToDo\Entities\obj\Debug\netcoreapp2.1\Entities.dll
+E:\workspace\ToDoApp\ToDo\Entities\obj\Debug\netcoreapp2.1\Entities.pdb
